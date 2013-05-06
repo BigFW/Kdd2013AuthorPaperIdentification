@@ -10,7 +10,7 @@ def main():
     print("Loading the classifier")
     classifier = data_io.load_model()
 
-    print("Making predictions")
+    print("Making predictions")i
     predictions = classifier.predict_proba(features)[:,1]
     predictions = list(predictions)
 
