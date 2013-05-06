@@ -1,7 +1,5 @@
 KDD Cup 2013 - Author Paper Identification Challenge
-====================================================
-
-This repo contains a benchmark and sample code in Python for the [Author Paper Identification Challenge](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge), a machine learning challenged hosted by [Kaggle](https://www.kaggle.com) and organized by [Microsoft Research](http://research.microsoft.com/) in conjunction with the 2013 KDD Cup Committee and Kaggle.
+) and organized by [Microsoft Research](http://research.microsoft.com/) in conjunction with the 2013 KDD Cup Committee and Kaggle.
 
 It also contains the transformation code used to create the competition data files from the raw data in the Transform directory. This code is provided for your information only (and does not need to be looked at or run by competition participants).
 
